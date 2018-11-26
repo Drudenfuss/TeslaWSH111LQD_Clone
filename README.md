@@ -1,6 +1,6 @@
 # TeslaWSH111LQD_Clone
 Tesla WSH 111 LQD Clone
 
-Vestärkechip Nachbau für REM.
+Operationsverstärker Nachbau für REM.
 
 GNU GPLv3
